@@ -6,11 +6,11 @@ Facebook	: www.facebook.com/qomaruddinrozzaq
 Tempalte 	: V 1.0
 */
 
-@import url("navi.css");
-@import url("forms.css");
-@import url("tables.css");
-@import url("featured_slide.css");
-@import url("loginslider.css");
+@import url("https://github.com/rozzaq0011/Rozzaq/blob/master/navi.css");
+@import url("https://github.com/rozzaq0011/Rozzaq/blob/master/forms.css");
+@import url("https://github.com/rozzaq0011/Rozzaq/blob/master/tables.css");
+@import url("https://github.com/rozzaq0011/Rozzaq/blob/master/featured_slide.css");
+@import url("https://github.com/rozzaq0011/Rozzaq/blob/master/loginslider.css");
 
 html{overflow-y:scroll;}
 body{margin:0; padding:0; font-size:12px; font-family:verdana, Arial, Helvetica, sans-serif; color:#3040E2; background-color:#228282;}
